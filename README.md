@@ -17,7 +17,7 @@
   </div>
 
   <br>
-  <strong>Accepted to <a href='https://iclr.cc/Conferences/2026' target='_blank'>ICLR 2026</a></strong> 🎉<br>
+  <strong>Accepted to <a href='https://iclr.cc/virtual/2026/poster/10008098' target='_blank'>ICLR 2026</a></strong> 🎉<br>
   <sub><sup>*</sup> Equal contribution &emsp; <sup>&#8224;</sup> Corresponding author</sub><br>
   <br>
 
