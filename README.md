@@ -3,7 +3,7 @@
 
 <div>
     <a href='https://scholar.google.com/citations?user=aqGMqEcAAAAJ' target='_blank'>Di Wen</a><sup>*</sup>&emsp;
-    <a href='https://openreview.net/profile?id=%7ELei_Qi3' target='_blank'>Lei Qi</a><sup>*</sup>&emsp;
+    <a href='https://scholar.google.com/citations?user=TR4XTmAAAAAJ' target='_blank'>Lei Qi</a><sup>*</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=pA9c0YsAAAAJ' target='_blank'>Kunyu Peng</a><sup>&#8224;</sup>&emsp;
     <a href='https://yangkailun.com/' target='_blank'>Kailun Yang</a>&emsp;
     <a href='https://scholar.google.com/citations?user=9A9B_u0AAAAJ' target='_blank'>Fei Teng</a>&emsp;
